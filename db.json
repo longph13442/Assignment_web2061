@@ -1,0 +1,70 @@
+{
+  "post": [
+    {
+      "title": "áo dạ nam",
+      "price": "780.000 ",
+      "img": "https://cdn.ssstutter.com/products/system/102021/1634092300277.jpeg",
+      "id": "3"
+    },
+    {
+      "title": "áo dạ nam",
+      "price": "780.000 ",
+      "img": "https://cdn.ssstutter.com/products/system/102021/1634092416670.jpeg",
+      "id": "4"
+    },
+    {
+      "title": "áo dạ nam",
+      "price": "780.000 ",
+      "img": "https://cdn.ssstutter.com/products/system/102021/1634092300277.jpeg",
+      "id": "5"
+    },
+    {
+      "title": "áo thun khoác",
+      "price": "350.000 ",
+      "img": "https://cdn.ssstutter.com/products/system/102021/1634092300277.jpeg",
+      "id": "6"
+    },
+    {
+      "title": "áo vest nam",
+      "price": "780.000 ",
+      "img": "https://cdn.ssstutter.com/products/nCRHI1bpbr1ZIsxG/012022/1641047216127.jpeg",
+      "id": "7"
+    },
+    {
+      "title": "áo dạ nam",
+      "price": "780.000 ",
+      "img": "https://cdn.ssstutter.com/products/system/102021/1634092300277.jpeg",
+      "id": "8"
+    },
+    {
+      "title": "áo sơ mi nam",
+      "price": "120000",
+      "img": "http://res.cloudinary.com/vulong/image/upload/v1645256085/uploadimg/a90aeccr90kbgcbmaepc.png",
+      "id": "-WVVeZG"
+    },
+    {
+      "title": "áo khoác nữ",
+      "price": "530.000",
+      "img": "http://res.cloudinary.com/vulong/image/upload/v1645325422/uploadimg/dpw8zo5fpxxnsjb3s4m9.jpg",
+      "id": "4ryfdJ4"
+    },
+    {
+      "title": "áo sơ mi nam",
+      "price": "123.000",
+      "img": "http://res.cloudinary.com/vulong/image/upload/v1645420701/uploadimg/gkqqphz1bj3i78tc6chn.jpg",
+      "id": "Q3Rs9Mr"
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$4F696kKyzbsi1TNgHq6fGuAtvB2FPhMOycc62ZFy7CZPpNH6UlAcK",
+      "id": "1"
+    },
+    {
+      "email": "long@gmail.com",
+      "password": "$2a$10$yzLnv46bVM92RPDdHiTpJOP8Cza3dMdJBOzEY0O8ep93883t5f6Dy",
+      "id": "2"
+    }
+  ]
+}
